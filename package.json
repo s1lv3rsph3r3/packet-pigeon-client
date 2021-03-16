@@ -1,6 +1,6 @@
 {
   "name": "packet-pigeon-client",
-  "version": "2.0.0-beta.0",
+  "version": "2.0.0-beta.1",
   "description": "A placeholder for the packet-pigeon-client module",
   "main": "index.js",
   "scripts": {
